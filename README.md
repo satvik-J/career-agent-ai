@@ -4,6 +4,8 @@ app_file: app.py
 sdk: gradio
 sdk_version: 5.49.1
 ---
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/Satvik2005/career-agent-ai)
+
 # 🤖 CareerAgent AI
 
 An AI-powered personal portfolio assistant built with OpenAI GPT-4o, Gradio, Function Calling, LLM Evaluation, and Pushover Notifications.
