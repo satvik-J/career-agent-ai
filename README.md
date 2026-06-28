@@ -4,6 +4,23 @@ app_file: app.py
 sdk: gradio
 sdk_version: 5.49.1
 ---
+# 🤖 CareerAgent AI
+
+An AI-powered personal portfolio assistant built with OpenAI GPT-4o, Gradio, Function Calling, LLM Evaluation, and Pushover Notifications.
+
+## 🚀 Live Demo
+
+👉 **https://huggingface.co/spaces/Satvik2005/career-agent-ai**
+
+## Features
+
+- AI portfolio assistant
+- GPT-4o powered conversations
+- LLM response evaluation
+- Function calling
+- Pushover notifications
+- Recruiter-friendly responses
+
 
 # 🤖 AI Portfolio Assistant
 
